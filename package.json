@@ -1,5 +1,5 @@
 {
-  "name": "tbs-tax-checklist",
+  "name": "tbs-tax-2026-checklist",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,23 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "lucide-react": "0.378.0",
-    "clsx": "2.1.1",
-    "tailwind-merge": "2.3.0",
-    "@radix-ui/react-slot": "1.0.2",
-    "class-variance-authority": "0.7.0"
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest"
   },
   "devDependencies": {
-    "typescript": "5.4.5",
-    "@types/node": "20.12.7",
-    "@types/react": "18.2.79",
-    "@types/react-dom": "18.2.25",
-    "postcss": "8.4.38",
-    "tailwindcss": "3.4.3",
-    "eslint": "8.57.0",
-    "eslint-config-next": "14.2.3"
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "eslint": "^8",
+    "eslint-config-next": "15.1.0"
   }
 }
